@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>FIFA 23 Player database</title>
+</head>
+
+<body>
+    <h1>FIFA 23 Player database</h1>
+    <h2>Players whose birthday is today</h2>
+    <p>This list is dynamic and may not have results depending on the day.</p>
+
+    <ul>
+        <% players.forEach(function(player) { %>
+        <li>
+            <%= player.FullName %>, <%= player.Nationality %>, <%= player.Team %>.
+            <em>born on <%= player.BirthDate.toLocaleDateString() %></em>
+        </li>
+        <% }) %>
+    </ul>
+
+    <a href="/">Return</a>
+</body>
+
+</html>

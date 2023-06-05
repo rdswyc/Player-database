@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>FIFA 23 Player database</title>
+</head>
+
+<body>
+    <h1>FIFA 23 Player database</h1>
+    <h2>Database drill-down</h2>
+    <p>Selected <%= league.name %>. Now select a Team to proceed:</p>
+
+    <ul>
+        <% teams.forEach(function(team) { %>
+        <li>
+            <a href="/drill/<%= league.nation %>/<%= league.id %>/<%= team.ID %>?team=<%= team.Name %>"><%= team.Name %></a>
+        </li>
+        <% }) %>
+    </ul>
+
+    <br>
+    <a href="/drill/<%= league.nation %>">Return</a>
+</body>
+
+</html>

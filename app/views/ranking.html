@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>FIFA 23 Player database</title>
+</head>
+
+<body>
+    <h1>FIFA 23 Player database</h1>
+    <h2>Nationality ranking</h2>
+    <p>This is the average players rating per nation.</p>
+    <em>Note that it does not reflect true information since there are not
+        sufficient players in all nations.</em>
+
+    <ol>
+        <% nations.forEach(function(nation) { %>
+        <li>
+            <%= nation.Name %>, <%= nation.Players %> <%= nation.Players > 1 ? 'players' : 'player' %>.
+            <strong>Overall <%= Math.round(nation.Overall) %></strong>
+        </li>
+        <% }) %>
+    </ol>
+
+    <br>
+    <a href="/">Return</a>
+</body>
+
+</html>

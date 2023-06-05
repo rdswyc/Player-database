@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>FIFA 23 Player database</title>
+</head>
+
+<body>
+    <h1>FIFA 23 Player database</h1>
+    <h2>Best 10 players by position</h2>
+    <p>Select a Position to proceed:</p>
+
+    <ul>
+        <% positions.forEach(function(position) { %>
+        <li>
+            <a href="/perPosition/<%= position.Label %>?position=<%= position.Description %>">
+                <%= position.Description %>
+            </a>
+        </li>
+        <% }) %>
+    </ul>
+
+    <br>
+    <a href="/">Return</a>
+</body>
+
+</html>

@@ -1,0 +1,1001 @@
+primaryKey,playerjerseyname,overall_rating,skillmoves,preferredfoot
+165153,Benzema,91,4,R
+188545,Lewandowski,91,4,R
+231747,Mbappe,91,5,R
+192985,De Bruyne,91,4,R
+158023,Messi,91,4,L
+209331,M.Salah,90,4,L
+203376,Virgil,90,2,R
+20801,Ronaldo,90,5,R
+192119,Courtois,90,1,L
+167495,Neuer,90,1,R
+190871,Neymar Jr,89,5,R
+200104,Son,89,4,R
+208722,Mane,89,4,R
+212622,Kimmich,89,3,R
+200145,Casemiro,89,2,R
+212831,A.Becker,89,1,R
+202126,Kane,89,3,R
+210257,Ederson M.,89,1,L
+215914,Kante,89,2,R
+200389,Oblak,89,1,R
+239085,Haaland,88,3,L
+182521,Kroos,88,3,R
+207865,Marquinhos,88,3,R
+177003,Modric,88,4,R
+210514,Joao Cancelo,88,4,R
+239818,Ruben,88,2,R
+230621,Donnarumma,88,1,R
+218667,Bernardo,88,4,L
+192448,ter Stegen,88,1,R
+193041,K.Navas,88,1,R
+209499,Fabinho,87,3,R
+189596,Muller,87,3,R
+231866,Rodrigo,87,3,R
+215698,M.Maignan,87,1,R
+205452,Rudiger,87,2,R
+216267,Robertson,87,3,L
+201024,Koulibaly,87,2,R
+228702,F. de Jong,87,4,R
+199556,Verratti,87,4,R
+209658,Goretzka,87,3,R
+231281,Alexander-Arnold,87,3,R
+167948,Lloris,87,1,L
+193080,De Gea,87,1,R
+238794,Vini Jr.,86,5,R
+232411,Nkunku,86,5,R
+231478,Lautaro,86,4,R
+234642,Mendy,86,1,R
+211110,Dybala,86,4,L
+212218,Laporte,86,2,L
+202652,Sterling,86,4,R
+188943,Trapp,86,1,R
+204485,Mahrez,86,5,L
+192387,Immobile,86,3,R
+189509,Thiago,86,5,R
+213345,Coman,86,5,R
+192505,Lukaku,86,3,L
+223848,Sergej,86,4,R
+164240,T.Silva,86,2,R
+224232,Barella,86,3,R
+212198,B.Fernandes,86,4,R
+216352,Brozovic,86,3,R
+189513,Parejo,86,3,R
+197445,Alaba,86,3,L
+232363,Skriniar,86,2,R
+186153,Szczesny,86,1,R
+186942,Gundogan,85,4,R
+232656,Theo,85,3,L
+177683,Sommer,85,1,R
+237692,Foden,85,4,L
+224458,Diogo J.,85,4,R
+234236,Schick,85,4,L
+195864,Pogba,85,5,R
+208093,Gerard,85,3,L
+205498,Jorginho,85,3,R
+188350,Reus,85,4,R
+192629,Iago Aspas,85,3,L
+188377,Walker,85,3,R
+212190,Sule,85,3,R
+208574,Kostic,85,3,L
+251854,Pedri,85,4,R
+208830,Vardy,85,3,R
+206113,Gnabry,85,4,R
+235243,de Ligt,85,2,R
+189332,Jordi Alba,85,3,L
+202556,Memphis,85,5,R
+216594,Fekir,85,4,L
+189511,Sergio,85,3,R
+185122,Gulacsi,85,1,R
+188567,Aubameyang,85,4,R
+208418,Carrasco,85,4,R
+224334,Acuna,85,3,L
+242444,Joao Felix,84,5,R
+252371,Bellingham,84,4,R
+222665,Odegaard,84,5,L
+246430,Vlahovic,84,3,L
+199451,Ben Yedder,84,4,R
+233064,Mount,84,3,R
+235212,Hakimi,84,4,R
+234378,Rice,84,2,R
+206517,Grealish,84,4,R
+241486,Kounde,84,2,R
+230142,Oyarzabal,84,3,L
+239053,Valverde,84,3,R
+226161,M. Llorente,84,3,R
+230938,Kessie,84,3,R
+212616,R. De Paul,84,4,R
+241096,Tonali,84,3,R
+228251,Pellegrini,84,3,R
+181458,Perisic,84,4,R
+240130,E. Militao,84,2,R
+190286,Canales,84,4,L
+235805,Chiesa,84,4,R
+220814,Hernandez,84,2,L
+209989,Thomas,84,3,R
+238074,James,84,3,R
+202811,Martinez,84,1,R
+155862,Sergio Ramos,84,3,R
+234396,Davies,84,4,L
+183898,Di Maria,84,5,L
+207410,Kovacic,84,4,R
+241084,Luis Diaz,84,4,R
+176580,Suarez,84,3,R
+199434,Tadic,84,4,L
+201535,R.Varane,84,2,R
+178603,Hummels,84,3,R
+208128,Calhanoglu,84,4,R
+216393,Tielemans,84,4,R
+232756,Tomori,84,2,R
+192984,Casteels,84,1,L
+183277,Hazard,84,4,R
+237383,Bastoni,84,2,L
+184344,Bonucci,84,2,R
+241721,R. Leao,84,4,R
+189575,Muniain,84,4,R
+222492,Sane,84,4,L
+197061,Matip,84,2,R
+226790,Ndidi,84,3,R
+210935,Berardi,84,4,L
+235790,Havertz,84,4,L
+198176,de Vrij,84,2,R
+204963,Carvajal,84,3,R
+233049,Sancho,84,5,R
+241852,Diaby,84,4,L
+209981,Bono,84,1,L
+186345,Trippier,84,3,R
+175943,Mertens,84,4,R
+198219,Insigne,84,4,R
+180930,Dzeko,84,3,R
+162835,Handanovic,84,1,R
+143076,Papu Gomez,84,4,R
+138956,Chiellini,84,2,L
+204639,Savic,84,2,R
+225193,Merino,83,3,L
+214997,Correa,83,4,R
+225375,Laimer,83,3,R
+233419,Raphinha,83,4,L
+194765,Griezmann,83,4,L
+201942,Firmino,83,5,R
+234153,C. Soler,83,3,R
+213565,Lemar,83,4,L
+193747,Koke,83,3,R
+193082,Cuadrado,83,5,R
+183711,Henderson,83,3,R
+242516,Gakpo,83,4,R
+228618,F.Mendy,83,4,L
+210406,Zielinski,83,4,R
+203574,Stones,83,3,R
+225850,Kimpembe,83,2,L
+230666,G. Jesus,83,4,R
+210315,R. D. T.,83,4,R
+208670,Ziyech,83,5,L
+226271,Fabian,83,4,L
+232293,Osimhen,83,3,R
+253163,R. Araujo,83,2,R
+220651,Angelino,83,4,L
+224293,Neves,83,3,R
+213648,Hojbjerg,83,3,R
+220834,Asensio,83,4,L
+210243,Ricardo,83,3,R
+219693,Diego Carlos,83,3,R
+152729,Pique,83,2,R
+231443,O. Dembele,83,5,L
+184134,Fernando,83,3,R
+230869,Unai Simon,83,1,R
+193698,Baumann,83,1,R
+241464,Pau,83,2,L
+239580,Bremer,83,2,R
+146536,J.Navas,83,4,R
+215333,Duvan,83,3,R
+232488,Romero,83,3,R
+163587,Schmeichel,83,1,R
+235073,Kobel,83,1,R
+216460,J.M. Gimenez,83,2,R
+190941,Hradecky,83,1,R
+198706,Luis Alberto,83,4,R
+168542,Silva,83,4,L
+208333,Emre Can,82,3,R
+231969,Malinovskyi,82,4,L
+202648,S. Darder,82,3,R
+201455,Kondogbia,82,3,L
+226754,Bennacer,82,4,L
+212523,Talisca,82,4,L
+233927,L. Paqueta,82,5,L
+241637,Tchouameni,82,3,R
+247819,N.Schlotterbeck,82,3,L
+253072,Darwin,82,3,R
+184200,Arnautovic,82,4,R
+200610,Volland,82,3,L
+198717,Zaha,82,5,R
+226753,Onana,82,1,R
+184432,Azpilicueta,82,2,R
+204838,Raul,82,3,R
+223697,Gosens,82,3,L
+222077,Locatelli,82,3,R
+246669,Saka,82,3,L
+255475,Antony,82,5,L
+204935,Pickford,82,1,L
+224411,Guedes,82,4,R
+210411,Otavio,82,4,R
+228941,Silva,82,4,R
+183512,Yuri B.,82,3,L
+210035,Grimaldo,82,3,L
+199482,Lopes,82,1,L
+201305,G. Paulista,82,2,R
+207862,Ginter,82,2,R
+217870,Di Lorenzo,82,3,R
+236401,Mazraoui,82,3,R
+200458,Digne,82,3,L
+204525,I.Martinez,82,2,L
+193474,Gana,82,3,R
+215316,Rulli,82,1,R
+168651,I.Rakitic,82,3,R
+216547,Rafa,82,4,R
+241461,Ferran,82,4,R
+233096,Dumfries,82,2,R
+178005,Rui Patricio,82,1,L
+202884,Spinazzola,82,4,R
+199110,L. Muriel,82,4,R
+200724,Nacho,82,2,R
+212188,Werner,82,3,R
+233934,Ramsdale,82,1,R
+209889,Guerreiro,82,4,L
+236276,Danjuma,82,4,R
+231352,Abraham,82,3,R
+200260,Berghuis,82,4,L
+220697,Maddison,82,4,R
+211688,Gaya,82,4,L
+184087,Alderweireld,82,2,R
+227127,A. Remiro,82,1,R
+164835,Fabianski,82,1,R
+216354,Kramaric,82,4,R
+197655,S. Coates,82,2,R
+256630,Wirtz,82,4,R
+229984,Chilwell,82,3,L
+199845,Acerbi,82,3,L
+205693,Haller,82,3,R
+179645,Kjær,82,2,R
+227796,Pulisic,82,4,R
+223952,David Soria,82,1,R
+212194,Brandt,82,4,R
+197781,Isco,82,4,R
+177388,Payet,82,4,R
+244260,Olmo,82,4,R
+189242,Coutinho,82,5,R
+213661,Christensen,82,2,R
+213331,Tah,82,2,R
+226221,Aritz,82,2,R
+41236,Ibrahimovic,82,5,R
+190460,Eriksen,82,4,R
+178509,Giroud,82,3,L
+204638,Orban,82,2,R
+157481,R.Albiol,82,2,R
+205632,L.Ocampos,81,4,R
+239301,Martinez,81,3,L
+238067,Zaniolo,81,4,L
+214097,Bourigeaud,81,3,R
+251517,Gvardiol,81,3,L
+214047,Matheus,81,3,R
+236791,Barak,81,4,L
+193165,Tecatito,81,5,R
+227236,Anguissa,81,3,R
+229261,Zakaria,81,3,R
+247394,Kulusevski,81,4,L
+236403,Ndicka,81,2,L
+173731,Bale,81,4,L
+216320,Fofana,81,4,R
+231943,Richarlison,81,4,R
+198141,Bartra,81,3,R
+219683,Tolisso,81,3,R
+172871,Vertonghen,81,3,L
+216201,Williams,81,4,R
+229237,Akanji,81,2,R
+223273,Pasalic,81,4,R
+193283,Delaney,81,2,L
+226226,Lo Celso,81,4,L
+240950,Pedro G.,81,4,R
+223959,Torreira,81,3,R
+212242,Andrich,81,3,R
+236480,Bissouma,81,4,R
+211748,Demirbay,81,4,L
+192883,Mkhitaryan,81,4,R
+231677,Rashford,81,5,R
+247851,Bruno G.,81,3,R
+188152,Oscar,81,4,R
+178562,Ever Banega,81,4,R
+235173,Sangare,81,3,R
+247263,Tapsoba,81,2,R
+213516,R. Horta,81,3,R
+210324,Hofmann,81,3,R
+224081,Phillips,81,3,R
+243576,Pedro Porro,81,3,R
+205686,Savanier,81,4,R
+240243,Cunha,81,4,R
+120533,Pepe,81,2,R
+216435,Lobotka,81,3,R
+220971,Keita,81,4,R
+209519,Laborde,81,3,L
+198950,Sarabia,81,4,L
+229391,J. Palhinha,81,2,R
+236792,Soucek,81,3,R
+229558,Upamecano,81,3,R
+193301,Lacazette,81,4,R
+208618,Lucas V.,81,4,R
+178086,Adan,81,1,L
+221992,H. Lozano,81,4,R
+193105,Areola,81,1,R
+180206,Pjanic,81,3,R
+236786,Terrier,81,3,R
+205569,Ward-Prowse,81,3,R
+205678,Edin Vi?ca,81,4,R
+239231,Cucurella,81,3,L
+226491,Tierney,81,3,L
+241788,Mehdi,81,4,R
+256790,Musiala,81,4,R
+236703,Raum,81,3,L
+187598,Toloi,81,2,R
+216409,Politano,81,4,L
+194404,Neto,81,1,R
+203841,Pope,81,1,R
+212442,Jose Sa,81,1,R
+225100,Gomez,81,3,R
+192318,M. Gotze,81,4,R
+192366,Otamendi,81,2,R
+203263,Maguire,81,2,R
+214979,Musso,81,1,R
+211256,Tagliafico,81,3,L
+237678,Konate,81,3,R
+243812,Rodrygo,81,4,R
+169416,Vela,81,4,L
+224179,B. Iglesias,81,3,R
+216388,Saint-Maximin,81,5,R
+162347,J.Moutinho,81,3,R
+211990,Odysseas,81,1,R
+189881,Smalling,81,2,R
+229582,Mancini,81,2,R
+212096,Grifo,81,4,R
+207863,Felipe,81,2,R
+232580,Gabriel,81,2,L
+225659,G. Rodriguez,81,2,R
+208448,Forsberg,81,4,R
+233486,Le Normand,81,2,R
+230767,R.Sanches,80,4,R
+238744,McKennie,80,3,R
+220018,A. Rebic,80,4,R
+251805,J. Timber,80,3,R
+210008,Rabiot,80,3,L
+240709,Baku,80,3,R
+229752,Sow,80,3,R
+222331,Klostermann,80,2,R
+208421,Saul,80,3,L
+229668,M. Hermoso,80,2,L
+204923,Sabitzer,80,3,R
+236496,Guendouzi,80,4,R
+181291,Wijnaldum,80,3,R
+206511,Arnold,80,3,L
+240679,Koopmeiners,80,3,L
+189271,Coquelin,80,3,R
+156519,H. Herrera,80,3,R
+198164,Jonathan Viera,80,4,R
+209297,Fred,80,4,L
+207439,L.Paredes,80,4,R
+237238,McTominay,80,3,R
+233500,Sinisterra,80,4,R
+200949,Lucas,80,4,R
+199914,Allan,80,4,R
+225953,Bergwijn,80,4,R
+226162,Buendia,80,4,R
+171877,Hamsik,80,4,R
+208461,de Roon,80,3,R
+225201,Berenguer,80,3,R
+230658,Arthur,80,4,R
+202335,Dier,80,2,R
+193983,Delort,80,3,R
+202024,Freuler,80,4,R
+233195,Xaver,80,3,L
+190815,Blind,80,3,L
+212462,Alex Telles,80,3,L
+215330,J.Correa,80,4,R
+251573,Renan Lodi,80,4,L
+216475,A.J. Morales,80,4,R
+243715,Saliba,80,2,R
+218339,Dahoud,80,4,R
+240690,Gonzalez,80,4,L
+221660,Lindelof,80,3,R
+222558,Karsdorp,80,3,R
+201389,Biraghi,80,3,L
+178213,Capoue,80,3,R
+202477,Deulofeu,80,4,R
+200159,Ortega Moreno,80,1,R
+244749,N.Aguerd,80,2,L
+224309,Jordan,80,3,R
+208268,Cristante,80,3,R
+203486,Hazard,80,4,R
+173221,Candreva,80,4,R
+244261,Majer,80,4,L
+234943,Neuhaus,80,3,R
+171579,Raul Garcia,80,3,R
+217036,Alex Moreno,80,3,L
+192563,Leno,80,1,R
+235844,Alvarez,80,2,R
+211300,Martial,80,4,R
+220093,Hateboer,80,3,R
+253149,Frimpong,80,3,R
+239093,Clauss,80,3,R
+221479,Calvert-Lewin,80,3,R
+199987,Cillessen,80,1,R
+173426,Mignolet,80,1,R
+191043,Alex Sandro,80,3,L
+199304,Danilo,80,3,R
+234742,Barnes,80,3,R
+226300,U?urcan,80,1,R
+201153,Morata,80,3,R
+213955,Sardar,80,3,R
+252145,N.Mendes,80,3,L
+236987,Kamara,80,3,R
+241671,Livakovic,80,1,R
+205988,Shaw,80,3,L
+232665,M.Arambarri,80,3,R
+227950,Yeray,80,2,R
+219789,H.Traore,80,3,R
+215223,Benitez,80,1,R
+200888,Danilo,80,3,R
+199564,S. Roberto,80,3,R
+195365,Kampl,80,3,R
+244369,Tsygankov,80,4,L
+233731,Isak,80,4,R
+238095,Milenkovic,80,2,R
+229906,Bailey,80,4,L
+245279,Reguilon,80,3,L
+227928,N. Semedo,80,4,R
+224371,Bowen,80,4,L
+231691,Lafont,80,1,R
+219522,Ledesma,80,1,R
+209846,Gunter,80,3,L
+204311,Zouma,80,2,R
+199042,Ch. Aranguiz,80,3,R
+220407,Dubravka,80,1,R
+204234,Edgar Badia,80,1,R
+244470,Coufal,80,3,R
+231591,Javi Galan,80,3,L
+244263,Rrahmani,80,2,R
+206585,Arrizabalaga,80,1,R
+205659,Cragno,80,1,R
+163489,Consigli,80,1,R
+228881,Calabria,80,3,R
+226710,Scamacca,80,4,R
+235410,Y.En-Nesyri,80,3,L
+227290,Dmitrovic,80,1,L
+210413,Romagnoli,80,2,L
+200155,Vanaken,80,4,R
+176550,Ospina,80,1,R
+211738,Flekken,80,1,R
+232730,Kamada,80,3,R
+183574,Kruse,80,4,L
+210385,Rui Silva,80,1,R
+211591,Dembele,80,3,R
+184392,Darmian,80,3,R
+207566,William,80,3,R
+229880,Wan-Bissaka,80,3,R
+251809,Botman,80,2,L
+210930,Carles Gil,80,4,L
+173608,Joselu,80,3,R
+240273,Smith Rowe,80,4,R
+171791,Fonte,80,2,R
+195861,Rakitskiy,79,3,L
+201519,Veretout,79,3,R
+253124,Matheus N.,79,3,R
+190717,Antonio,79,4,R
+172522,Wass,79,3,R
+248243,Camavinga,79,4,L
+208135,Doucoure,79,3,R
+246104,Gravenberch,79,4,R
+230625,Matheus R.,79,3,L
+173030,Oscar Trejo,79,3,R
+201995,F.Anderson,79,4,R
+210881,McGinn,79,3,L
+203483,Klaassen,79,3,R
+213956,Adama,79,4,R
+205923,Davies,79,3,L
+220502,Zaccagni,79,4,R
+235407,Ozcan,79,3,R
+202166,Draxler,79,4,R
+221363,van de Beek,79,3,R
+199254,Joao Pedro,79,4,R
+238216,Gallagher,79,3,R
+243245,Kokcu,79,3,R
+227535,Bentancur,79,4,R
+228520,Chimy Avila,79,3,R
+212207,Stanciu,79,4,R
+231447,Malen,79,4,R
+240753,Gouiri,79,4,R
+170368,Lamela,79,4,L
+225126,Skhiri,79,3,R
+242201,L. Milla,79,3,R
+226456,P.Fornals,79,4,R
+190674,Andre,79,3,R
+205600,Umtiti,79,2,L
+191740,Ander Herrera,79,3,R
+235569,Ndombele,79,4,R
+212404,Bernardeschi,79,4,L
+245630,Fofana,79,3,R
+220673,Tapia,79,3,R
+225663,Golovin,79,4,R
+198031,Sergio,79,3,R
+234906,Aouar,79,4,R
+212814,J.Mario,79,3,R
+196978,Wilson,79,4,R
+231628,Rafa Mir,79,3,R
+184941,Alexis,79,4,R
+232229,Bijlow,79,1,R
+201119,Ismaily,79,4,L
+227678,Konsa,79,2,R
+199339,Riemann,79,1,R
+264240,Gavi,79,3,R
+235374,Lazzari,79,3,R
+231102,Blas,79,4,L
+193198,Gudelj,79,3,R
+233306,Henderson,79,1,R
+178750,S.Asenjo,79,1,R
+203551,Florenzi,79,3,R
+210897,Mbemba,79,2,R
+195859,Ings,79,3,R
+222028,J.Weigl,79,3,R
+224031,Marusic,79,3,R
+221087,Pau Lopez,79,1,L
+201095,Marche,79,1,R
+198009,Perin,79,1,R
+246646,Caqueret,79,3,R
+208364,Mata,79,3,R
+231340,Montiel,79,3,R
+235688,L. Verissimo,79,2,R
+236632,Neres,79,5,L
+243630,J.David,79,3,R
+189690,Guaita,79,1,R
+227174,Cash,79,3,R
+220793,Sanchez,79,2,R
+187072,Stindl,79,4,R
+239433,Maksimovic,79,3,R
+202857,Bellarabi,79,4,R
+255253,Vitinha,79,3,R
+205192,Denis Suarez,79,3,R
+220253,Munir,79,4,L
+190745,Silvestri,79,1,R
+234711,Brekalo,79,4,R
+219733,Ajorque,79,3,L
+227813,Zinchenko,79,3,L
+234426,Marcao,79,2,L
+202048,Coady,79,2,R
+236572,Wijndal,79,3,L
+216150,Zappacosta,79,3,R
+197225,Lodeiro,79,4,L
+208104,Matheus,79,1,R
+257179,G. Inacio,79,2,L
+237086,Min Jae,79,2,R
+223550,Omlin,79,1,R
+182494,Muslera,79,1,R
+231936,White,79,2,R
+248148,Zubimendi,79,3,R
+252308,Al Musrati,79,2,R
+226110,Pepe,79,4,L
+238041,Malacia,79,3,L
+163705,Mandanda,79,1,R
+215270,Zelarayan,79,4,R
+212382,Onuachu,79,3,R
+234468,Reynoso,79,4,L
+244316,Maximiano,79,1,R
+246172,Chukwueze,79,4,L
+223689,Weghorst,79,2,R
+251892,Beto,79,3,R
+236772,Szoboszlai,79,4,R
+253004,Ansu Fati,79,4,R
+246242,Dia,79,3,R
+206545,M.Trigueros,79,4,R
+183907,Boateng,79,2,R
+236045,Reinildo,79,3,L
+248695,Fofana,79,2,R
+232432,Jovic,79,3,R
+202695,Tarkowski,79,2,R
+235889,Under,79,4,L
+235997,Fran Beltran,79,3,R
+214584,Armani,79,1,R
+226166,Mukiele,79,3,R
+227275,Rossi,79,1,R
+211022,Ruben Garcia,79,4,L
+217940,Djene,79,2,R
+207599,Keane,79,2,R
+199503,Xhaka,79,3,L
+207421,Trossard,79,4,R
+199641,Sels,79,1,R
+189505,Pedro,79,4,R
+236355,Luiz Felipe,79,3,R
+225341,David Garcia,79,2,R
+146748,Diego Lopez,79,1,R
+202651,Suso,79,4,L
+210372,Ghezzal,79,4,L
+208165,Djimsiti,79,2,R
+182212,Modeste,79,3,R
+226851,Pavard,79,3,R
+205175,Milik,79,3,L
+253002,Raspadori,79,4,R
+210455,J.Otto,79,3,R
+45186,Joaquin,79,4,R
+199915,Dunk,79,2,R
+191202,Matic,79,3,L
+177413,Witsel,79,3,R
+247257,Ibanez,79,2,R
+237942,Estupinan,79,3,L
+189805,de Jong,79,3,R
+203747,Bellerin,79,3,R
+178224,Chicharito,79,3,R
+234577,D. Costa,79,1,R
+197891,Juanmi,79,3,R
+237221,Foyth,79,3,R
+188988,Lanzini,79,4,R
+1179,Buffon,79,1,R
+259377,Yeremy,79,3,R
+232938,Tomiyasu,79,2,R
+183855,Ogbonna,79,2,L
+169588,Evans,79,2,R
+240900,Nunez,79,2,R
+240699,De la Cruz,78,4,R
+246191,J. Alvarez,78,4,R
+215798,Cornet,78,3,L
+233738,Zubeldia,78,2,R
+210665,Halstenberg,78,3,L
+232905,Ito,78,4,R
+247090,Enzo,78,3,R
+227890,Nuno Santos,78,4,L
+251470,De Ketelaere,78,4,L
+242664,Saelemaekers,78,3,R
+251116,Holes,78,2,R
+229927,Gerson,78,3,L
+208920,Ake,78,2,L
+193061,Pereyra,78,4,R
+223874,Rongier,78,3,R
+255654,Kalulu,78,2,R
+191627,Rits,78,3,R
+205070,Portu,78,3,R
+239380,Lang,78,4,R
+195479,Tavernier,78,3,R
+228093,Thuram,78,3,R
+199813,Trauner,78,2,R
+231913,Aursnes,78,3,R
+198946,D'Ambrosio,78,3,R
+220883,Borre,78,3,R
+202642,Fernando,78,4,R
+241390,Elmas,78,4,R
+189125,Bonaventura,78,4,R
+231521,Palacios,78,3,R
+201862,Marcos Rojo,78,3,L
+226515,Girotto,78,2,R
+221697,Watkins,78,3,R
+199823,J.G. Campana,78,4,R
+238463,Haidara,78,3,R
+196432,Perez,78,3,R
+244622,Puado,78,4,R
+225859,Niakhate,78,2,L
+203299,Carrillo D.,78,4,R
+242577,Faivre,78,4,L
+182002,Sidnei,78,2,R
+245235,Bah,78,3,R
+228302,A.Pedraza,78,3,L
+174543,C.Bravo,78,1,R
+253109,Veerman,78,3,R
+201400,Rafael,78,4,L
+240938,Messias Jr,78,3,L
+206534,Bamford,78,3,L
+242000,Mavropanos,78,2,R
+195272,Faraoni,78,3,R
+206467,Plea,78,4,R
+236499,Douglas Luiz,78,3,R
+232487,Endo,78,3,R
+230084,L. Nmecha,78,3,R
+202371,Meunier,78,3,R
+212419,Mings,78,3,L
+247131,A. Espino,78,3,L
+208004,Veltman,78,2,R
+235134,Rosario,78,3,R
+138412,Milner,78,3,R
+224030,M. Lopez,78,4,R
+241095,Vlasic,78,3,R
+199005,Ryan,78,1,R
+245388,Todibo,78,3,R
+236506,Senesi,78,3,L
+240787,Traore,78,3,R
+207494,Lingard,78,4,R
+201143,Mandi,78,2,R
+229857,Sensi,78,4,R
+216816,Simeone,78,3,R
+232119,Soyuncu,78,2,R
+185195,Ighalo,78,4,R
+220440,Lenglet,78,2,L
+199652,Praet,78,4,R
+230977,Almiron,78,4,L
+231836,Karlsson,78,5,R
+234574,Dalot,78,3,R
+206413,Stepanenko,78,3,L
+236610,Kean,78,3,R
+234612,J. Ikone,78,4,L
+209440,Romarinho,78,4,R
+204538,Ruidiaz,78,4,R
+192789,Mario Gaspar,78,3,R
+200215,Rode,78,3,R
+228413,Audero,78,1,R
+243854,Simakan,78,2,R
+216531,Paulinho,78,3,L
+251566,Martinelli,78,4,R
+233084,Molina,78,2,R
+211241,R. Pena,78,4,R
+199354,Lucas,78,4,L
+226268,Dimarco,78,3,L
+224196,Bensebaini,78,3,L
+223197,Enes Unal,78,3,R
+197242,Krychowiak,78,3,R
+202848,Caprari,78,3,R
+241159,Guehi,78,2,R
+223061,F.Cervi,78,4,L
+211567,Gilberto,78,3,R
+203895,Pozuelo,78,4,R
+247204,E. Royal,78,3,R
+219581,Gigot,78,2,R
+215259,Rigoni,78,4,L
+173373,Romero,78,1,R
+190243,Hitz,78,1,R
+211515,Gollini,78,1,R
+195093,Willian J.,78,4,R
+223690,S. Rochet,78,1,R
+243388,Sosa,78,3,L
+237679,Kolo Muani,78,4,R
+222501,Castagne,78,3,R
+205069,Juan Bernat,78,4,L
+238616,Neto,78,4,L
+224003,S. Herrera,78,1,R
+208334,Hector,78,3,L
+212151,Strakosha,78,1,R
+211348,Dimitrievski,78,1,R
+244892,S.Diop,78,4,R
+234128,Araujo,78,4,L
+223249,Arias,78,1,R
+209960,Pacheco,78,1,L
+239207,M. Gomez,78,3,R
+221342,Maffeo,78,3,R
+236679,Melendo,78,4,L
+189053,Caputo,78,3,R
+239901,Kalajdzic,78,3,R
+225116,Meret,78,1,L
+223885,Nubel,78,1,R
+234035,Odriozola,78,3,R
+204614,Mario Rui,78,3,L
+232440,C.Henrique,78,3,L
+189682,Mee,78,2,L
+207877,Martinez,78,3,R
+225263,Caleta-Car,78,2,R
+235619,Edwards,78,4,L
+221125,Driussi,78,3,R
+224069,Toko Ekambi,78,3,R
+189615,Cresswell,78,3,L
+202750,Boly,78,2,R
+226766,Podence,78,4,R
+242187,Baumgartner,78,3,R
+220621,Benrahma,78,4,R
+227222,Guilbert,78,3,R
+158625,Dante,78,3,L
+240091,Vicario,78,1,R
+208777,Oliver T.,78,3,R
+256612,Evanilson,78,3,R
+210513,Quintero,78,4,L
+215716,Mitrovic,78,3,R
+243647,Altay,78,1,R
+231366,Lienhart,78,2,R
+241727,Rajkovic,78,1,R
+214092,Miranchuk,78,3,L
+215353,Alario,78,3,R
+256197,Hincapie,78,3,L
+199833,Unnerstall,78,1,R
+227927,Walker-Peters,78,3,R
+194806,Dawson,78,2,R
+193469,Victor Ruiz,78,2,L
+230021,Aidoo Jr.,78,2,R
+236583,Pavlenka,78,1,R
+231410,Brahim,78,4,R
+154472,Molina,78,3,R
+176635,Ozil,78,4,L
+199576,Romeu,78,2,R
+219145,Maripan,78,2,R
+168435,Sirigu,78,1,R
+247103,Hancko,77,2,L
+214436,Diaz,77,2,R
+198784,Chamberlain,77,4,R
+234568,Gedson,77,3,R
+210602,Salem,77,4,R
+211093,McGregor,77,4,L
+222357,Embolo,77,3,R
+225863,Boscagli,77,3,L
+247246,Thuram,77,3,R
+212269,Bazoer,77,3,R
+221174,Orsic,77,3,R
+245211,Teze,77,2,R
+224425,Wolf,77,3,R
+198658,Midtsj�,77,3,R
+231227,Dorsch,77,3,R
+213242,Tameze,77,3,R
+230065,Serdar,77,4,R
+207791,Poulsen,77,3,R
+226789,Fulgini,77,4,R
+227536,Marega,77,3,R
+215071,M. Casco,77,3,R
+239807,Frattesi,77,3,R
+183394,Sissoko,77,3,R
+188042,M. Suarez,77,4,R
+239613,Pessina,77,3,L
+229758,Krunic,77,3,R
+220746,A. Zivkovic,77,4,L
+205855,Livaja,77,4,R
+244374,Shaparenko,77,3,R
+193361,Soriano,77,4,R
+212127,Lazovic,77,3,R
+246764,Camara,77,3,R
+225711,Diallo,77,3,L
+250723,Manu Kone,77,4,R
+219985,Vecino,77,3,R
+208295,Saiss,77,3,L
+225793,Godfrey,77,2,R
+212228,Toney,77,3,R
+216189,Capa,77,3,R
+253306,Ugarte,77,3,R
+208250,Bakasetas,77,3,L
+247182,Tuta,77,2,R
+210047,Sch�r,77,2,R
+190813,El Shaarawy,77,4,R
+222041,Lucas Boye,77,4,R
+247328,Vencedor,77,3,R
+225014,Castrovilli,77,4,R
+213388,Tait,77,3,R
+208787,Thomasson,77,3,R
+192906,Pulga,77,4,R
+211117,Dele,77,4,R
+186537,Stuani,77,4,R
+233301,Kristensen,77,3,R
+212219,Djiku,77,2,R
+225403,Kahveci,77,4,L
+236368,Maggiore,77,3,R
+171897,A.Guardado,77,3,L
+232104,James,77,3,R
+233959,Villa,77,4,R
+237712,Castellanos,77,3,R
+207884,Willian Arao,77,3,R
+240740,Hudson-Odoi,77,4,R
+236699,Lukic,77,3,R
+214026,J. Mojica,77,3,L
+224422,Boga,77,4,R
+188103,Rochina,77,4,L
+216258,Bebou,77,4,R
+244067,Lacroix,77,2,R
+237135,Davidson,77,4,R
+198657,Svensson,77,3,R
+202599,Coronado,77,5,R
+257536,Kuchta,77,2,R
+212187,Max,77,3,L
+176600,Gameiro,77,3,R
+198329,Rodrigo M.,77,4,L
+221491,Elvedi,77,2,R
+254796,Madueke,77,4,L
+205566,Alberto M.,77,3,L
+211368,Bruma,77,4,R
+227055,Gelson.M,77,4,R
+232080,Harrison,77,4,L
+262621,Mamardashvili,77,1,L
+216158,Widmer,77,3,R
+225719,Iheanacho,77,4,L
+251804,Dest,77,4,R
+190149,De Marcos,77,4,R
+215061,Benedetto,77,3,R
+234777,Steffen,77,1,R
+243032,Hugo Duro,77,3,L
+124375,Burak,77,3,R
+222509,D. Ceballos,77,4,R
+247181,G. Plata,77,4,L
+188955,Bou,77,4,R
+208224,Mantalos,77,3,R
+203843,Damian,77,3,R
+206306,Ferri,77,3,R
+224221,Andersen,77,2,R
+193254,Trimmel,77,3,R
+226380,Hee Chan,77,3,R
+232223,Tsimikas,77,3,L
+189172,Fidel,77,3,L
+235944,Brais Mendez,77,4,L
+244176,Undav,77,3,R
+242578,B.Badiashile,77,2,L
+24630,Reina,77,1,R
+242374,Barrow,77,3,R
+230978,Awoniyi,77,3,R
+220876,Honorat,77,4,R
+245541,Reyna,77,4,R
+246618,Hlozek,77,3,R
+193314,Aitor Fdez.,77,1,R
+224041,Schw�be,77,1,R
+251182,Iago,77,3,L
+232498,Isi,77,3,L
+213150,Kritciuk,77,1,R
+199715,Vitolo,77,3,R
+201417,Doherty,77,3,R
+231627,Sadiq,77,3,R
+225149,Butez,77,1,R
+223724,Lainer,77,2,R
+186627,Balotelli,77,4,R
+245336,Kilman,77,2,L
+190765,Gross,77,4,R
+241202,Daka,77,3,R
+241187,Geertruida,77,2,R
+216939,Blake,77,1,R
+210736,Emerson,77,3,L
+197948,Lejeune,77,2,R
+216820,Simon,77,4,R
+239482,Galeno,77,4,R
+234730,Rosier,77,2,R
+210625,Mbabu,77,3,R
+228789,Sanchez,77,1,R
+220633,Gray,77,4,R
+211381,Boufal,77,4,R
+246186,A. Cabral,77,3,R
+235353,Sarr,77,4,R
+225783,Mavididi,77,3,R
+243559,De Frutos,77,4,R
+200726,Lecomte,77,1,L
+139068,Nani,77,4,R
+234226,Bruno Viana,77,2,R
+204529,Batshuayi,77,4,R
+178007,M. Veloso,77,4,L
+190584,Illarra,77,3,R
+223597,Aguilar,77,3,R
+228687,Dolberg,77,3,R
+212678,Augustinsson,77,3,L
+232639,Doan,77,4,L
+238160,Demiral,77,2,R
+181820,Jovetic,77,3,R
+182493,Godin,77,2,R
+205193,Rekik,77,2,L
+242656,Meslier,77,1,L
+201976,Gomis,77,1,R
+216283,Soares,77,3,L
+224019,Chirivella,77,3,R
+228579,Henrichs,77,3,R
+189165,Shelvey,77,3,R
+199393,Pallois,77,2,L
+224116,Dyego Sousa,77,3,R
+230899,Lookman,77,4,R
+156616,Ribery,77,5,R
+241042,Skipp,77,2,R
+202325,Demme,77,3,R
+214766,Izquierdoz,77,2,R
+203605,Kaderabek,77,3,R
+244915,M. Salisu,77,2,L
+233267,Turner,77,1,R
+240716,M.Olivera,77,3,L
+222493,Friedrich,77,2,R
+201505,David Lopez,77,2,R
+256958,Fabio Vieira,77,3,L
+216793,Beauguel,77,3,L
+228295,Holding,77,2,R
+146439,A. Negredo,77,3,L
+201399,Icardi,77,3,R
+235036,Faes,77,2,R
+198032,Burn,77,2,L
+241049,Gorosabel,77,2,R
+186682,Montoro J.M.,77,3,R
+220523,Y.Mina,77,2,R
+231633,Diop,77,2,R
+210679,P. Oliveira,77,2,R
+225293,Diallo,77,3,R
+218659,Targett,77,3,L
+238896,Pep�,77,4,R
+194333,Gikiewicz,77,1,R
+204024,Kramer,77,3,R
+234835,Domingos D.,77,2,R
+198230,German,77,2,R
+193601,Pezzella,77,2,R
+226601,Vitor Hugo,77,2,L
+194229,Hugo Mallo,77,3,R

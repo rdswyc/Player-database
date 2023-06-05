@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>FIFA 23 Player database</title>
+</head>
+
+<body>
+    <h1>FIFA 23 Player database</h1>
+    <h2>Top 10 heaviest players</h2>
+
+    <ol>
+        <% players.forEach(function(player) { %>
+        <li>
+            <%= player.FullName %>, <%= player.Nationality %>, <%= player.Team %>.
+            <strong><%= player.Weight %> kg</strong>
+        </li>
+        <% }) %>
+    </ol>
+
+    <a href="/">Return</a>
+</body>
+
+</html>

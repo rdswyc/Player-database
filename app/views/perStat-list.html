@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>FIFA 23 Player database</title>
+</head>
+
+<body>
+    <h1>FIFA 23 Player database</h1>
+    <h2>Best 10 players by Stat</h2>
+    <p>Select a Stat to proceed:</p>
+
+    <ul>
+        <% stats.forEach(function(stat) { %>
+        <li>
+            <a href="/perStat/<%= stat.Type %>?stat=<%= stat.Name %>"><%= stat.Name %></a>
+        </li>
+        <% }) %>
+    </ul>
+
+    <br>
+    <a href="/">Return</a>
+</body>
+
+</html>
